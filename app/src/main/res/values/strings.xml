@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">One Activity onPause Runs Before Another Activity onResume</string>
+</resources>
